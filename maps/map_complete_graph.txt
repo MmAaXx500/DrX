@@ -1,0 +1,5 @@
+4
+ABCD
+BACD
+CABD
+DABC

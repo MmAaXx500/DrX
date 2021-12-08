@@ -1,0 +1,10 @@
+9
+ABCDEFGHI
+BA
+CA
+DA
+EA
+FA
+GA
+HA
+IA
